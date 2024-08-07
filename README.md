@@ -2,6 +2,8 @@
 
 Running **V2ray** in the edge/serverless runtime.
 
+It can running on CF.
+
 # Documentation
 
 **!!If your find project can't use, please check the your deploy page and rescan the QRcode!!!!**
